@@ -1,0 +1,7 @@
+.charactersDiv {
+  display: flex;
+}
+
+.charactersDiv > div {
+  padding: 20px;
+}
